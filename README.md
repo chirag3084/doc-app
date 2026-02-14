@@ -17,7 +17,7 @@ A beginner-friendly Django project that serves a single-page, offline-capable te
 - Django 4.2
 - SQLite (default, unused)
 - HTML5, CSS3, JavaScript (ES6)
-- Frontend via CDN: Quill.js, Turndown.js, html2pdf.js, FontAwesome, Google Fonts (Inter)
+- Frontend via CDN: Quill.js, Turndown.js, html2pdf.js, FontAwesome, Google Fonts
 
 ## Project Structure
 ```
