@@ -85,3 +85,5 @@ Open the app at: http://127.0.0.1:8000/
 
 ## Contributing
 Contributions are welcome! Please fork the repo, create a feature branch, and open a pull request. Beginner-friendly issues are encouraged for Hacktoberfest.
+
+## Happy Learning 
